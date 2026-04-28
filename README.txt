@@ -7,3 +7,4 @@
 2026-04-29[수] : alarm.js 추가
 2026-04-30[목] : footer.html 추가
 2026-05-01[금] : Feature/Cart ① 추가
+2026-05-02[토] : Feature/Cart ② 추가
